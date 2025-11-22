@@ -108,8 +108,9 @@ Dashboard includes:
 ## 📸 **Dashboard Preview**
 
 ```md
-![Dashboard Screenshot 1](screenshots/dashboard.png)
+![Dashboard Screenshot ](screenshots/dashboard.png)
 ```
+<img width="889" height="499" alt="Screenshot " src="https://github.com/user-attachments/assets/c48a3142-c32d-48dd-a37d-95a9eb9852d4" />
 
 ---
 
