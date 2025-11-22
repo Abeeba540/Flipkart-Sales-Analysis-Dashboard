@@ -107,8 +107,6 @@ Dashboard includes:
 
 ## 📸 **Dashboard Preview**
 
-*(Add screenshots after uploading images to /screenshots folder)*
-
 ```md
 ![Dashboard Screenshot 1](screenshots/dashboard.png)
 ```
@@ -160,7 +158,7 @@ Dashboard includes:
 ## 👩‍💻 **Author**
 
 **Ummu Abeeba**
-📧 **[abeeba3356@gmail.com](mailto:abeeba3356@gmail.com)**
+📧 **[abeeba2430@gmail.com](mailto:abeeba2430@gmail.com)**
 💼 *Aspiring Data Analyst | Excel | Power BI | Dashboard Design*
 
 ---
